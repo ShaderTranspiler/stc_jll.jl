@@ -3,7 +3,7 @@ export libstc, stc_cli
 
 using Fmt_jll
 JLLWrappers.@generate_wrapper_header("stc")
-JLLWrappers.@declare_library_product(libstc, "libstc.so.0")
+JLLWrappers.@declare_library_product(libstc, "libstc.so.PROJECT_VERSION_MAJOR")
 JLLWrappers.@declare_executable_product(stc_cli)
 function __init__()
     JLLWrappers.@generate_init_header(Fmt_jll)
