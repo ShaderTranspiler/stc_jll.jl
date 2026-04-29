@@ -734,3 +734,67 @@ os = "windows"
     [[stc.download]]
     sha256 = "240ff56380fe13780b60c959486ba5f9dc7f6997d3ec815de8da25c4fc2775b5"
     url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[stc]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4fa0a73bb7a08335b6f2bd07807c5c909011c2a7"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[stc.download]]
+    sha256 = "c250dfda122238564c267bfe556b6b9c548507ae7f8f40fd508518e97fb87881"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[stc]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc805b5774f3bebf329bdefad2fc7460541d483b"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[stc.download]]
+    sha256 = "4934d2bbe62da1d9eeb846c4ffe2ddcc718eef246a21dd56ab344cc7cf98c64e"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[stc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca1dbf3cfdfba476807b3ba3e46509b42ac1bba2"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[stc.download]]
+    sha256 = "d6f1666a50c0d0b129c0d431f07105d7970af934a234594a1c44d960921aacb8"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[stc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5eb82f23a83583b7c1181052ac87eefb5e68cc2"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[stc.download]]
+    sha256 = "51527430cf1dd794b75178a45ff59a6de98bc49391c49ad55254da473fe3ae21"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[stc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc3a4b8a78a815146a2218a4f36597f8191b75f5"
+julia_version = "1.11.0"
+os = "windows"
+
+    [[stc.download]]
+    sha256 = "4d88389da7311284dec5de31efad08b9217655846388f5151d10600cb3e01e6f"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+[[stc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef2663a49cb9976a0b4dc3346d41eb534a7f5dab"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[stc.download]]
+    sha256 = "dcd5b0aad747beb1cd896c0b5faad03de44f23530aed65a541bb2e4be9e775a9"
+    url = "https://github.com/ShaderTranspiler/stc_jll.jl/releases/download/stc-v0.8.2+0/stc.v0.8.2.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
