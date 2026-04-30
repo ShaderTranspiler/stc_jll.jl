@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `stc_jll.jl` have been built from these sources:
 
-* files in directory, relative to originating `build_tarballs.jl`: `/tmp/jl_jDcXE6`
+* files in directory, relative to originating `build_tarballs.jl`: `/tmp/jl_Ysglw6`
 
 ## Platforms
 
