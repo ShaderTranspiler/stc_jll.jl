@@ -1,6 +1,6 @@
 name = "stc_jll"
 uuid = "8dead81b-3450-5e2f-948b-0f2a405f2b3d"
-version = "0.8.3+0"
+version = "1.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
