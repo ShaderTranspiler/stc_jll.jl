@@ -1,64 +1,64 @@
 [[stc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "11a0f94b0a0b649cde5a74e01970de45079a2f11"
+git-tree-sha1 = "04b8609dce6ceeebf06aaa5b0cd579bb2d8a006c"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[stc.download]]
-    sha256 = "57c2fa833aace2a95c1d94cc4020f4533b12674857a687c34f3b0a74340e3261"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e55a38bb6de5533df427cdbfa14b76a58d6adb9f863ddf37542aaef929d39ce8"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[stc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa9ff308ffdd31f9dd7d7f1199a7b7bdc3f91d24"
+git-tree-sha1 = "51ffb8487590b2ecef26d6074a620d0f654c4dce"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[stc.download]]
-    sha256 = "2030b1fcc4430b3caba25dbbfe6f2540c26220d764946061f93493841ec97ccf"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "ac373738ab723c0839d9ca418af3d365338ad1ac644a4457e55d557a98fd0ca7"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[stc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31c5c8cdf8f0099b30eb3bdbb492e1b41919d672"
+git-tree-sha1 = "88ab9687d032f98968590e319f7d466c98a1388f"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[stc.download]]
-    sha256 = "d050785dd6167a8f86b888c8a0fd1b972893cd76910007869688bd34744f8743"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "d1a7b6f192e6e82693bf00a92191cafbcb858fc2b7a5faad8ca7cc09b0acda53"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[stc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "357962980983381f8caf71922a67c59e0c5a03a4"
+git-tree-sha1 = "671dd50c0a7dbca8203a2c72fc69c9aa68106f74"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[stc.download]]
-    sha256 = "8f84b676de7d83377d99f7c31b69b2aed146ca7cb7685b94d2fb7889e6919995"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "005411665492e1bf53deba133ce7d06b32b2a2b1a5022d9f399e2bf68800d50d"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[stc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0384bd49b8f855a49e721f3faedbfb09552a2566"
+git-tree-sha1 = "0220f88517f4d81bc23188fc20eab9dbfc29d285"
 julia_version = "1.12.0"
 os = "windows"
 
     [[stc.download]]
-    sha256 = "b3602e851ee6f0e4cff419c1e4a9c727acc7470e227c4ea1e51d10075c667593"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "1459a1ef8497df9bd30af511ecb2b6a2269974a04126ea6c7ea843d183d4a687"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[stc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3cc4955268c651eb3f855d1696ce82cfde84cf5"
+git-tree-sha1 = "3feee637dd4662986f7358d6cc2348d79045b8b3"
 julia_version = "1.13.0"
 os = "windows"
 
     [[stc.download]]
-    sha256 = "a34c4a4343d6b818a60421fb407c5533f6dadda21c182d4b417332458be8e987"
-    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.1/stc_jll.v0.11.0-rc.1.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "949a4fd5736e7f7a5a72406c0231eebbd46b3aabf10704122442885609505441"
+    url = "https://github.com/ShaderTranspiler/stc/releases/download/v0.11.0-rc.2/stc_jll.v0.11.0-rc.2.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
